@@ -1,0 +1,20 @@
+input_template_name:,policy.offcycle_credits,input_template_version:,0.11,description:,20231106 same as 20231102 except moved 15 gpm oc cap for start to 2023 and update bev ss and oc credits,,,,
+start_year,credit_name,credit_group,credit_destination,fueling_class_reg_class_id:ICE.car,fueling_class_reg_class_id:ICE.truck,fueling_class_reg_class_id:BEV.car,fueling_class_reg_class_id:BEV.truck,fueling_class_reg_class_id:PHEV.car,fueling_class_reg_class_id:PHEV.truck
+2020,start_stop,menu,cert_direct_offcycle_co2e_grams_per_mile,2.5,4.4,0,0,2.5,4.4
+2020,other_oc_menu_tech,menu,cert_direct_offcycle_co2e_grams_per_mile,7.5,5.6,5.3,7,7.5,5.6
+2020,ac_leakage,ac,cert_indirect_offcycle_co2e_grams_per_mile,13.8,17.2,13.8,17.2,13.8,17.2
+2020,ac_efficiency,ac,cert_direct_offcycle_co2e_grams_per_mile,5,7.2,5,7.2,5,7.2
+2023,start_stop,menu,cert_direct_offcycle_co2e_grams_per_mile,2.5,4.4,0,0,2.5,4.4
+2023,other_oc_menu_tech,menu,cert_direct_offcycle_co2e_grams_per_mile,12.5,10.6,5.3,7,12.5,10.6
+2027,ac_leakage,ac,cert_indirect_offcycle_co2e_grams_per_mile,1.6,2,1.6,2,1.6,2
+2027,ac_efficiency,ac,cert_direct_offcycle_co2e_grams_per_mile,5,7.2,0,0,5,7.2
+2027,start_stop,menu,cert_direct_offcycle_co2e_grams_per_mile,2.5,4.4,0,0,2.5,4.4
+2028,start_stop,menu,cert_direct_offcycle_co2e_grams_per_mile,2,3.52,0,0,2,3.52
+2029,start_stop,menu,cert_direct_offcycle_co2e_grams_per_mile,1.5,2.64,0,0,1.5,2.64
+2030,start_stop,menu,cert_direct_offcycle_co2e_grams_per_mile,0.75,1.32,0,0,0.75,1.32
+2031,start_stop,menu,cert_direct_offcycle_co2e_grams_per_mile,0,0,0,0,0,0
+2027,other_oc_menu_tech,menu,cert_direct_offcycle_co2e_grams_per_mile,7.5,5.6,0,0,7.5,5.6
+2028,other_oc_menu_tech,menu,cert_direct_offcycle_co2e_grams_per_mile,6,4.48,0,0,6,4.48
+2029,other_oc_menu_tech,menu,cert_direct_offcycle_co2e_grams_per_mile,4.5,3.36,0,0,4.5,3.36
+2030,other_oc_menu_tech,menu,cert_direct_offcycle_co2e_grams_per_mile,2.25,1.68,0,0,2.25,1.68
+2031,other_oc_menu_tech,menu,cert_direct_offcycle_co2e_grams_per_mile,0,0,0,0,0,0
